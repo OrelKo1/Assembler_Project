@@ -1,0 +1,8 @@
+#ifndef _DEFENITIONS_H
+#define _DEFENITIONS_H
+#define MAX_LINE_LENGTH 81
+#define MAX_MACRO_LENGTH 16
+#define MAX_MACROS 100
+#define MAX_WORDS 16
+#define MAX_LABEL_LENGTH 32
+#endif
